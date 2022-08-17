@@ -5,7 +5,7 @@ tailwind.config = {
                 "backgroundColor": "#12141D",
                 "backgroundAccent": "#1E2029",
                 "backgroundAccentLighter": "#22242d",
-                "accent": "#DC3962",
+                "accent": "#22242d",
                 "lightAccent": "#FF715B",
                 "primaryText": "#FFFFFF",
                 "secondaryText": "#6B8594"
