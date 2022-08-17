@@ -8,7 +8,8 @@ tailwind.config = {
                 "accent": "#DC3962",
                 "lightAccent": "#FF715B",
                 "primaryText": "#FFFFFF",
-                "secondaryText": "#6B8594"
+                "secondaryText": "#6B8594",
+                "text-accent": "#22242d"
             }
         }
     }
