@@ -3,6 +3,7 @@
 * [Personal Website](https://william.net.au)
 * [Developer Website](https://williamharrison.dev)
 * [Blog](https://williamharrison.blog)
+* [solo.to](https://solo.to/wdh)
 * [Facebook](https://www.facebook.com/wdharrison09)
 * [Twitter](https://twitter.com/wdharrison09)
 * [Instagram](https://www.instagram.com/wdharrison09)
@@ -14,4 +15,3 @@
 * [YouTube](https://www.youtube.com/channel/UCzHwrpKSSMcnt-srjRqQqjg)
 * [Twitch](https://www.twitch.tv/WDHarrison09)
 * [TikTok](https://www.tiktok.com/@WDHarrison09)
-* [solo.to](https://solo.to/wdh)
