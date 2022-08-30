@@ -20,6 +20,7 @@ tailwind.config = {
             "lg": "0.5rem",
             "full": "9999px",
             "social": "6px",
+            "other": "6px",
             "link": "12px"
         }
     }
