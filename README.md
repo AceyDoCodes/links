@@ -6,7 +6,6 @@ https://williamharrison.me
 * [Developer Website](https://williamharrison.me/#dev)
 * [Blog](https://williamharrison.me/#blog)
 * [Contact Me](https://williamharrison.me/#contact)
-* [solo.to](https://williamharrison.me/#solo-to)
 * [Facebook](https://williamharrison.me/#facebook)
 * [Twitter](https://williamharrison.me/#twitter)
 * [Instagram](https://williamharrison.me/#instagram)
