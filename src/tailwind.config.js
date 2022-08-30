@@ -10,6 +10,10 @@ tailwind.config = {
                 "primaryText": "#FFFFFF",
                 "secondaryText": "#6B8594"
             }
+        },
+
+        borderRadius: {
+            "sm": "50%"
         }
     }
 }
