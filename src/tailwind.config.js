@@ -10,6 +10,18 @@ tailwind.config = {
                 "primaryText": "#FFFFFF",
                 "secondaryText": "#6B8594"
             }
+        },
+
+        borderRadius: {
+            "none": "0",
+            "sm": "0.125rem",
+            DEFAULT: "0.25rem",
+            "md": "0.375rem",
+            "lg": "0.5rem",
+            "full": "9999px",
+            "social": "12px",
+            "other": "6px",
+            "link": "12px"
         }
     }
 }
