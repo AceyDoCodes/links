@@ -1,8 +1,11 @@
 # Links
+https://williamharrison.me
+
 * [Main Website](https://williamharrison.me/#website)
 * [Personal Website](https://williamharrison.me/#personal)
 * [Developer Website](https://williamharrison.me/#dev)
 * [Blog](https://williamharrison.me/#blog)
+* [Contact Me](https://williamharrison.me/#contact)
 * [solo.to](https://williamharrison.me/#solo-to)
 * [Facebook](https://williamharrison.me/#facebook)
 * [Twitter](https://williamharrison.me/#twitter)
