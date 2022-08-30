@@ -13,7 +13,8 @@ tailwind.config = {
         },
 
         borderRadius: {
-            "full": "50%",
+            "full": "9999px",
+            "sm": "0.125rem",
             "social": "50%"
         }
     }
